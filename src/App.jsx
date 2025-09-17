@@ -49,8 +49,8 @@ let passcopy=useCallback(()=>{
   return (
   <div>
     <div className='grid place-content-center w-screen h-screen'>
-      <div className='text-amber-50 absolute top-30 left-120 text-4xl'>
-          Password Genarator
+      <div className='text-amber-50 flex grid place-content-center mb-5 text-3xl'>
+         Random Password Genarator
       </div>
       <div className='grid place-content-center bg-blue-950 h-50 w-100 rounded-2xl'>
         <div className='rounded-2xl mr-14 '>
