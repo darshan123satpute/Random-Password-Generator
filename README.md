@@ -4,7 +4,7 @@ A simple React-based web application that generates strong and secure random pas
 
 ## Live Demo
 
-Check out the live project here: [Random Password Generator Live](https://darshan123satpute.github.io/Random-Password-Generator/)
+Check out the live project here: [Random Password Generator Live](https://vercel.com/darshs-projects-3c8fe174/courses-yrh8)
 
 ## Features
 
